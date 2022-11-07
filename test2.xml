@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root testAttr="testValue">
+  <result>
+    <child>data1</child>
+    <child>A1343358848.646</child>
+    <child>
+      <internal>
+       <data>one</data>
+       <data2>two</data2>
+       <unique>rpk</unique>
+       <child>hier2</child>
+       <age>1</age>
+      </internal>
+    </child>
+  </result>
+</root>
