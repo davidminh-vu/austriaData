@@ -7,11 +7,10 @@
       <internal>
        <data>one</data>
        <data>two</data>
-       <unique>Z1343358848.646</unique>
-	   <child>data1</child>
-	   <child>A1343358848.646</child>
-    <child>ewqewq</child>
-</internal>
+       <unique>rpk</unique>
+	<child>hier2</child>
+	<child>1</child>
+      </internal>
     </child>
   </result>
 </root>
